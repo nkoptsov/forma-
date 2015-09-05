@@ -1,0 +1,91 @@
+#fforms{font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco, 'Bitstream Vera Sans Mono', monospace;
+    font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 9px;
+    
+
+}
+h2{text-align:center;
+    
+	font-size: 30px;
+	
+	font-weight: 500;
+	line-height: 15px;
+}
+h4{
+   
+	font-size: 19px;
+	text-align:center;
+	font-weight: 500;
+	line-height: 15px;
+    
+}
+.pole{
+    background: #DCDCDC; 
+    border-radius: 10px; 
+    padding: 10px;
+    border: 2px;
+    outline: none;
+    
+}
+
+.subm{   /*кнопка*/
+    background: #48D1CC; 
+    color: #FFFFFF; 
+    width: 210px; /* Ширина кнопки */
+    height: 44px; /* Поля вокруг текста */
+    border-radius: 5px;
+    border:1px solid #48D1CC; 
+   font-size: 19px;
+	font-weight: 400;
+	line-height: 9px;
+}
+.td{
+	font-size: 15px;
+	
+	font-weight: 400;
+	line-height: 9px;
+    text-align: justify; 
+}
+
+.pole11{
+    background:#DCDCDC; 
+    border-radius: 10px; 
+    padding: 10px;
+    border: 2px;
+    outline: none;
+    width:325px;
+     height:45px;
+    
+}
+.vivod{
+    color:rgb(255 ,0 ,0);
+    width:325px;
+    height:35px;
+}
+.aa{border-radius: 5px;
+    border:7px solid rgb(83 ,113, 176);
+    background-color:#FFFFFF;
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   width:600px; /* ширина основного блока */
+   height:450px; 
+   margin-top: -225px;
+   margin-left: -300px;
+   
+}
+
+
+.a{ background-color:#87CEFA;
+}
+TR.even{background-color:#87CEFA;
+    
+}
+
+.pole::-webkit-input-placeholder { color: black; }
+.pole11::-webkit-input-placeholder { color: black; }
+.pole:-moz-placeholder{ color: black; }
+.pole11:-moz-placeholder{ color: black; }
+
